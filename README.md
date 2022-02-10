@@ -8,7 +8,7 @@ To build a machine learning model that attempts to predict whether a loan from L
 
 ## Key Artifact
 
-[Machine Learning Model using Python](Credit Risk Evaluator.ipynb)
+[Machine Learning Model using Python](Credit_Risk_Evaluator.ipynb)
 
 ## Model Development Process
 
